@@ -1,0 +1,11 @@
+    .bluebox {
+        background-color: blue;
+        color: white;
+        height: 40px;
+        width: 40px; 
+        float: left;
+    }
+
+    .yum {
+        color: red;
+    }
